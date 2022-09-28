@@ -1,6 +1,6 @@
 /myenv
 
 #ignore all images
-.png
-.jpg
-.gif
+*.png
+*.jpg
+*.gif
